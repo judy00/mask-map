@@ -1,3 +1,8 @@
+const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
+  router: {
+    base: '/mask-map/'
+  }
+} : {}
 
 export default {
   mode: 'universal',
@@ -77,5 +82,6 @@ export default {
     */
     extend (config, ctx) {
     }
-  }
+  },
+  ...routerBase
 }
