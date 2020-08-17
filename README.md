@@ -7,9 +7,10 @@ Nuxt.js 前端練習，使用 bootstrap 排版，可選擇縣市與地區，
 
 
 
-### DOME
+### DEMO
 - - -
-judy00.github.io/mask-map/
+[口罩地圖](https://judy00.github.io/mask-map/)
+
 
 ### 使用技術
 - - -
@@ -19,6 +20,6 @@ judy00.github.io/mask-map/
 * openstreetmap
 
 
-
+![Alt text](https://github.com/judy00/mask-map/blob/master/map.png)
 
 
