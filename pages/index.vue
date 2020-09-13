@@ -69,7 +69,7 @@ export default {
       storeData: [],
       cityCounty,
       selectedCounty: '臺北市',
-      selectedtown: '中正區',
+      selectedtown: '大安區',
       colorBy: 'adult'
     }
   },

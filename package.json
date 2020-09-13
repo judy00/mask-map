@@ -20,7 +20,8 @@
     "bootstrap-vue": "^2.5.0",
     "element-ui": "^2.4.11",
     "nuxt": "^2.0.0",
-    "nuxt-leaflet": "0.0.19"
+    "nuxt-leaflet": "0.0.19",
+    "serialize-javascript": "^5.0.1"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^2.0.0",
@@ -35,5 +36,8 @@
     "push-dir": "^0.4.1",
     "sass-loader": "^8.0.2",
     "vue-jest": "^4.0.0-0"
+  },
+  "resolutions": {
+    "serialize-javascript": "^5.0.1"
   }
 }
